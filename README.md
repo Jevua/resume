@@ -24,7 +24,8 @@ Name ： 徐泽华 |Phone ： 18850048560 | Email : jevuaxu@gmail.com
    + 参与项目的需求设计与研发
    + 参与项目单元测试的覆盖，使用Junit、Mockito
    + 正常迭代的升级、现场 bug 的定位解决
-
+   + 维护公司gitlab上面的一个wiki文档
+ 
 # 技能 
 
 
