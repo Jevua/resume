@@ -33,9 +33,11 @@ Location : 厦门 | Birth ：1994. 莆田 | Education : 本科 | Java
    + 正常迭代的升级、现场 bug 的定位解决
    + 维护公司gitlab上面的一个wiki文档
  
-# 技能 
+# 职业技能 
 
-
-
+* 以下均为我熟练掌握的技能：
+   - IDEA 、 Eclipse
+   - Git 、 GitHub 、 GitLab
+   - Oracle 、 MySql
 
 ***
