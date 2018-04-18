@@ -1,14 +1,19 @@
 ***
 # resume 简历 
 
-Name ： 徐泽华 |Phone ： 18850048560 | Email : jevuaxu@gmail.com 
----|---|---
+Name ： 徐泽华 | Phone ： 18850048560 | Email : jevuaxu@gmail.com | Sex : 男 
+---|---|---|---
+Location : 厦门 | Birth ：1994. 莆田 | Education : 本科 | Java
 
-## location ：厦门&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;birthday ：1994. 莆田.
 
-## School ： 集美大学. 计算机工程学院. 计算机科学与技术系.
 
-## Work ：厦门中兴软创科技股份有限公司 two year now（包括一年的实习）.
+## School
+* 集美大学. 
+   + 计算机工程学院.  计算机科学与技术系.
+   + 2013.9 入学.
+   + 2017.7 毕业. 
+## Work
+* 厦门中兴软创科技股份有限公司 two year now（包括一年的实习）.
 
 # Do ?
 
