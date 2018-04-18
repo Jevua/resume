@@ -1,23 +1,25 @@
 ***
 # resume 简历 
 
+> 基本信息
+
 Name ： 徐泽华 | Phone ： 18850048560 | Email : jevuaxu@gmail.com | Sex : 男 
 ---|---|---|---
 Location : 厦门 | Birth ：1994. 莆田 | Education : 本科 | Java
 
 
 
-## School
+> School
 * 集美大学. 
    + 计算机工程学院.  计算机科学与技术系.
    + 2013.9-2017.7
 
-## Work
+> Work
 * 厦门中兴软创科技股份有限公司 two year now（包括一年的实习）. 
    + 2016.7-2017.9. 实习.
    + 2017.10-now. Java初级开发工程师. 
 
-# Do ?
+> Do ?
 
 * 实习 ： 
 
@@ -33,7 +35,7 @@ Location : 厦门 | Birth ：1994. 莆田 | Education : 本科 | Java
    + 正常迭代的升级、现场 bug 的定位解决
    + 维护公司gitlab上面的一个wiki文档
  
-# 职业技能 
+> 职业技能 
 
 * 以下均为我熟练掌握的技能：
    - IDEA 、 Eclipse
