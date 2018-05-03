@@ -5,7 +5,7 @@
 
 Java开发工程师
 
-[下载离线简历](./resume.pdf)
+[下载离线简历](https://github.com/Jevua/resume/raw/master/徐泽华_Java开发工程师_18850048560.pdf)
 
 个人相关
 ------
