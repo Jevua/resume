@@ -4,7 +4,7 @@
 - Email：jevuaxu@gmail.com
 - 微信：18850048560
 - 坐标：厦门
-
+[下载离线简历](https://github.com/Jevua/resume/raw/master/java.pdf)
 ---
 
 # 个人信息
@@ -57,10 +57,6 @@ SpringMVC + Oracle + MongoDB + Redis + JQueryUI + bootstrap
 
 * 平常负责项目版本的迭代与项目的维护
 
-  ### 相关技术
-
-  - SpringMVC、Mybatis、Bootstrap、JqueryUI
-  - Echarts、多线程、axis、cxf、设计模式
 
 ---
 
