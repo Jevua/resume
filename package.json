@@ -1,0 +1,13 @@
+{
+  "name": "mkdocs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My Resume",
+  "main": "java",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "mkdocs build -d public"
+  }
+}
