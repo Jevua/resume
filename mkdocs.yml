@@ -1,1 +1,6 @@
 site_name: Resume
+#repo_url: https://github.com/Jevua/
+site_favicon: favicon.jpg
+docs_dir: resume
+#theme:
+#    name: bootstrap4
