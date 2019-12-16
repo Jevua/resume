@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "*.md",
+      "use": "@juicyfx/md@canary",
+      "config": {
+      "title": "Demo Project",
+      "css": [
+        "https://CDN/lib.css",
+        "/dist/theme.css"
+      ],
+      "js": [
+        "https://CDN/lib.js",
+        "/dist/main.js"
+      ]
+      }
+    }
+  ]
+}
